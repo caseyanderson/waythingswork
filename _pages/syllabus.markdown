@@ -71,6 +71,26 @@ Grades will be calculated based on the following distribution:
 #### Week 2
 
 * 2.1 LAB Introduction to Electronics
-* 2.2 LAB Huzzah32 pre-flight
+* 2.2 LAB [ Conda Setup (Micropython) ]({{ site.url }}labs/micropython-conda-setup.html)
+* 2.3 LAB [ Huzzah32 pre-flight ]({{ site.url }}/labs/huzzah32-preflight.html)
 * 2.5 HW 5x Paper Button Prototypes
 
+
+#### Week 3
+
+* 3.1 Review Paper Button Prototypes
+* 3.2 Digital Output
+* 3.3 Digital Input/Output
+* 3.4 HW Paper Circuit Prototype (v1)
+* 3.5 HW Paper Circuit Prototype Proposal
+* 3.6 HW Paper Circuit 10 Possible Revisions
+
+
+#### Week 4
+
+* 4.1 Review Paper Circuit Prototypes
+* 4.2 Demo: 1 Input Controls 2 Outputs
+* 4.3 LAB GPIO, Analog & Digital Signals
+* 4.4 LAB Analog Input
+* 4.5 HW Prepare Final Paper Circuit Prototype
+* 4.6 HW Get Analog Sensors

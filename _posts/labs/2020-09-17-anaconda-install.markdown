@@ -39,14 +39,3 @@ Note: who would like to take a screenshot of the Anaconda Powershell and send it
 `>`
 
 The command prompt, illustrated above per operating system, indicates to a user where they can enter commands (type things)
-
-
-### Create A Conda Environment
-
-In the Terminal (MacOS) or Anaconda Powershell Prompt (Windows 10):
-
-1. `conda create -n making_intro python=3.8`
-2. `conda activate making_intro`
-3. `pip install beautifulsoup4`
-4. `conda list` (confirms that `beautifulsoup4` has been installed)
-5. `conda activate`

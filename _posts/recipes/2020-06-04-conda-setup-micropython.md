@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Conda Setup (Micropython)"
-date:   2020-09-24 06:00:00 -0600
-week: "2"
-number: "2"
-categories: "labs"
+date:   2020-06-04 06:00:00 -0600
+week: 2
+number: ""
+categories: recipes
 ---
 
 1. Navigate to `Anaconda Navigator`

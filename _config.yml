@@ -19,6 +19,7 @@ header_pages:
   - _pages/labs.markdown
   - _pages/hw.markdown
   - _pages/briefs.markdown
+  - _pages/recipes.markdown
 
 # site defaults
 defaults:
