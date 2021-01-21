@@ -5,6 +5,7 @@ date:   2020-10-01 07:00:00 -0700
 week: "3"
 number: "4"
 categories: briefs
+published: false
 ---
 
 ## brief

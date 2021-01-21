@@ -5,6 +5,7 @@ date:   2020-09-24 06:00:00 -0600
 week: "2"
 number: "2"
 categories: "labs"
+published: false
 ---
 
 1. Navigate to `Anaconda Navigator`

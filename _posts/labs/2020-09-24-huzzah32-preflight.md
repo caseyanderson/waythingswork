@@ -5,6 +5,7 @@ date:   2020-09-24 06:00:00 -0630
 week: 2
 number: 3
 categories: labs
+published: false
 ---
 
 ## Materials

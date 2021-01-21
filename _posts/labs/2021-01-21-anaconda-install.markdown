@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anaconda"
-date:   2020-09-17 07:00:00 -0700
+date:   2021-01-21 07:00:00 -0700
 week: "1"
 number: "1"
 categories: "labs"

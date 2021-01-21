@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prototype Proposals"
-date:   2020-09-17 07:00:00 -0830
+date:   2021-01-21 07:00:00 -0830
 week: "1"
 number: "3"
 categories: briefs

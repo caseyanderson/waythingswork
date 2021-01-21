@@ -2,6 +2,7 @@
 title: recipes
 permalink: /recipes.html
 layout: page
+published: false
 ---
 
 <div class="posts">

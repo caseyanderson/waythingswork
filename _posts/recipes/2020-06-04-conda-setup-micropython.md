@@ -5,6 +5,7 @@ date:   2020-06-04 06:00:00 -0600
 week: 2
 number: ""
 categories: recipes
+published: false
 ---
 
 1. Navigate to `Anaconda Navigator`

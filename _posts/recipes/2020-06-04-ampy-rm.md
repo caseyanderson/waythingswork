@@ -6,6 +6,7 @@ week: ""
 number: ""
 categories: recipes
 permalink: /:title.html
+published: false
 ---
 
 ### MacOS
