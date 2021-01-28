@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Kill Leftover screen Session (MacOS)"
-date:   2020-09-02 06:00:00 -0630
+date:   2021-01-01 06:00:00 -0630
 week: ""
 number: ""
 categories: recipes
 permalink: /:title.html
-published: false
 ---
 
 ### MacOS

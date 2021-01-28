@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Connect to the ESP32 Command Prompt"
-date:   2020-06-04 06:00:00 -0700
+date:   2021-01-01 06:00:00 -0700
 week: ""
 number: ""
 categories: recipes
 permalink: /:title.html
-published: false
 ---
 
 ### MacOS
