@@ -7,9 +7,9 @@ number: 1
 category: labs
 ---
 
-Let's revisit our homework assignment from last week and replace the prin statements with the code described the prin statement together.
+Let's revisit our homework assignment from last week and replace the print statements with the code described the prin statement together.
 
-```
+```python
 from machine import Pin
 from time import sleep_ms
 
